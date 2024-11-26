@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riki Andriana</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIzd2gyNHVoYm9id2ZpbjNwcGR0cXU0eTF3emN1OGNwajN4MTFoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HmO7FZjok6mhW/giphy.webp
+<img aligh="right" alt="patrict" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIzd2gyNHVoYm9id2ZpbjNwcGR0cXU0eTF3emN1OGNwajN4MTFoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HmO7FZjok6mhW/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikiandriana&label=Profile%20views&color=0e75b6&style=flat" alt="rikiandriana" /> </p>
 
