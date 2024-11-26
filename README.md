@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Riki Andriana</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
-<img aligh="right" alt="patrict" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIzd2gyNHVoYm9id2ZpbjNwcGR0cXU0eTF3emN1OGNwajN4MTFoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HmO7FZjok6mhW/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikiandriana&label=Profile%20views&color=0e75b6&style=flat" alt="rikiandriana" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikiandriana" alt="rikiandriana" /></a> </p>
 
 - 🔭 I’m currently working on [Bestpoint web](https://github.com/RikiAndriana/Bestpoints)
 
 - 🌱 I’m currently learning **MEVN Tech Stack**
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **web/game development**
 
 - 📫 How to reach me **rikiandrianakuliah@gmail.com**
 
