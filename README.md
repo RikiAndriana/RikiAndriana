@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riki Andriana</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
-[<iframe src="https://giphy.com/embed/QxO6JEGaf3oTFDqqZJ/video" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/minecraft-microsoft-builder-minecraft-QxO6JEGaf3oTFDqqZJ">via GIPHY</a></p>](https://media1.giphy.com/media/1oKQqphQDlpb2rHUpZ/giphy.gif?cid=6c09b9520tps85fv8omjafzwc9zpa81l48rp46vw4vztcrkv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIzd2gyNHVoYm9id2ZpbjNwcGR0cXU0eTF3emN1OGNwajN4MTFoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HmO7FZjok6mhW/giphy.webp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikiandriana&label=Profile%20views&color=0e75b6&style=flat" alt="rikiandriana" /> </p>
 
