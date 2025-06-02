@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bestpoint web](https://github.com/RikiAndriana/Bestpoints)
 
-- 🌱 I’m currently learning **MEVN Tech Stack**
+- 🌱 I’m currently learning **MERN Tech Stack**
 
 - 💬 Ask me about **web/game development**
 
