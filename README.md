@@ -1,14 +1,16 @@
-<div align="center"> <h1>Hi, I'm Riki Andriana</h1> <h3>Full Stack Developer & Game Developer from Indonesia</h3> <img src="https://komarev.com/ghpvc/?username=rikiandriana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </div>
-About Me
-Currently working on Ansell Business Intelligence, a smart farming application with AI integration
-Currently learning how to write simpler, cleaner code
-Ask me about web development and game development
-Reach me at 
+<div align="center"> <h1>Riki Andriana</h1> <h3>Full Stack Developer | Game Developer | AI Integration Enthusiast</h3> <p> I build practical, scalable, and user-focused digital products through web development, backend systems, game development, and AI-powered applications. </p> <p> <img src="https://komarev.com/ghpvc/?username=rikiandriana&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views" /> <img src="https://img.shields.io/badge/Based%20in-Indonesia-ef4444?style=flat-square" alt="Based in Indonesia" /> <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Game%20Dev%20%7C%20AI-2563eb?style=flat-square" alt="Focus" /> </p> </div>
+Professional Summary
+Area	Details
+Current Project	Ansell Business Intelligence, a smart farming application with AI integration
+Main Focus	Full stack development, game development, clean code, and AI-powered applications
+Open to Discuss	Web development, backend architecture, game systems, and product engineering
+Email	
 rikiandrianakuliah@gmail.com
-Fun fact: I am Sundanese
+Fun Fact	I am Sundanese
 Connect With Me
-<p align="left"> <a href="https://instagram.com/riki_andriana21" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="36" /> </a> <a href="https://www.youtube.com/@4speed202" target="_blank"> <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="36" /> </a> </p>
-Languages and Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,cs" alt="Languages" /> </p> <p align="left"> <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,bootstrap,tailwind,sass,dotnet" alt="Frameworks and libraries" /> </p> <p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,postman,figma,blender,unity,unreal" alt="Tools" /> </p>
-GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=rikiandriana&show_icons=true&theme=tokyonight&hide_border=true" alt="Riki Andriana GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikiandriana&layout=compact&theme=tokyonight&hide_border=true" alt="Riki Andriana top languages" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikiandriana&theme=tokyonight&hide_border=true" alt="Riki Andriana GitHub streak" /> </div>
+<div align="center"> <a href="mailto:rikiandrianakuliah@gmail.com"> <img src="https://img.shields.io/badge/Email-rikiandrianakuliah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/riki-andriana-b87613247/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Riki%20Andriana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://instagram.com/riki_andriana21" target="_blank"> <img src="https://img.shields.io/badge/Instagram-riki_andriana21-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://www.youtube.com/@4speed202" target="_blank"> <img src="https://img.shields.io/badge/YouTube-4Speed202-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> </div>
+Tech Stack
+<div align="center"> <h3>Languages</h3> <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,cs" alt="Languages" /> <h3>Frontend & Backend</h3> <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,express,dotnet,bootstrap,tailwind,sass" alt="Frontend and backend technologies" /> <h3>Database & Infrastructure</h3> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker" alt="Database and infrastructure" /> <br /> <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=000000" alt="ClickHouse" /> <h3>Tools & Game Development</h3> <img src="https://skillicons.dev/icons?i=git,postman,figma,blender,unity,unreal" alt="Tools and game development" /> </div>
+GitHub Analytics
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikiandriana&theme=github_dark" alt="Riki Andriana GitHub profile summary" /> </div> <br /> <div align="center"> <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rikiandriana&theme=github_dark" alt="Riki Andriana repositories per language" /> <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rikiandriana&theme=github_dark" alt="Riki Andriana most committed languages" /> </div> <br /> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikiandriana&theme=github-dark-blue&hide_border=true" alt="Riki Andriana GitHub streak" /> </div>
+<div align="center"> <strong>Code with purpose. Build with clarity. Keep learning.</strong> </div>
